@@ -10,7 +10,7 @@ const Content = styled.div`
 export const HomePageDesktop = () => {
   return (
     <Content>
-      This is the homepage for <b>DESKTOP</b> browsers.
+      This is the XXXXX homepage for <b>DESKTOP</b> browsers.
     </Content>
   )
 };
